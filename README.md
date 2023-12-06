@@ -68,6 +68,8 @@ Drift Detection sample report.
 Project Video:
 
 
+Sample data: https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/tree/main/sample_json
+
 Citations:
 1) https://docs.evidentlyai.com/presets/data-drift
 2) https://spark.apache.org/docs/latest/structured-streaming-kafka-integration.html
