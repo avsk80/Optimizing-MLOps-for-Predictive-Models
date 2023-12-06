@@ -1,4 +1,4 @@
-# Optimizing-MLOps-for-Predictive-Models
+# Team 1: Optimizing-MLOps-for-Predictive-Models
 
 <b>Abstract:</b>
 
@@ -23,11 +23,10 @@ In this project we develop a real-time prediction system and an architecture to 
 3) Model Monitoring - Keep track of model experiments using MLFlow.
 4) Scalable ML - Developed and Deployed Logistic Regression and Random Forest Models in pyspark that were trained in a distributed setup.
 
-<b> Impact: </b>
+<b> Business Impact: </b>
 
-1) The drift detection process helps up make an informed decision on when to retrain a ML Model rather than retrain a model in a brute-force approach.
-2) MFlow's model tracking, versioning can alleviate the pain involved in maintaining multiple versions of different models.
-3) The automated model serving feature of MLFlow helps us to inference in real-time.
+1) The drift detection process helps up make an informed decision on when to retrain a ML Model rather than retrain a model in a brute-force approach. This saves valuable compute resources and enables efficient cluster maintanace.
+2) MFlow's model tracking, versioning can alleviate the pain involved in maintaining multiple versions of different models. Thus saves a lot of time by providing automatic logging system.
 
 <b> Project Setup requirements: </b>
 We recommend to create a databricks account (preferrably enterprise edition to leverage MLFlow's full services).
