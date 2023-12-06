@@ -33,6 +33,7 @@ In this project we develop a real-time prediction system and an architecture to 
 We recommend to create a databricks account (preferrably enterprise edition to leverage MLFlow's full services).
 
 Python packages used in our project: pyspark, evidently, smtplib, pandas, numpy
+
 command to install: pip install <package_name>
 
 Maven installations needed: org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0
