@@ -46,17 +46,22 @@ Maven installations needed: org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0
 ![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/kafka-sample.png)
 View of messages stored in a Kafka Topic.
 
+
 ![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/mlflow-exp-sample.png)
 MLFlow experiments tab.
+
 
 ![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/mlflow-model-params-chart.png)
 MLFlow model parameters comparision chart.
 
+
 ![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/mlflow-model-deployment.png)
 MLFlow model deplyoment in Production.
 
+
 ![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/drift-detection-sample.png)
 Drift Detection sample report.
+
 
 Project Video:
 
