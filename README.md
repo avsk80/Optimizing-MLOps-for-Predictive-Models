@@ -38,7 +38,7 @@ command to install: pip install <package_name>
 Maven installations needed: org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0
 
 <b> Flyer: </b>
-
+![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/project-flyer.pdf)
 
 
 <i> This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota </i>
