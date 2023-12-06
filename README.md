@@ -39,7 +39,33 @@ command to install: pip install <package_name>.
 Maven installations needed: org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0
 
 <b> Flyer: </b>
-https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/project-flyer.pdf
+![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/project-flyer.pdf
 
+<b> Sample images of Project Work: </b>
+
+![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/kafka-sample.png)
+View of messages stored in a Kafka Topic.
+
+![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/mlflow-exp-sample.png)
+MLFlow experiments tab.
+
+![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/mlflow-model-params-chart.png)
+MLFlow model parameters comparision chart.
+
+![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/mlflow-model-deployment.png)
+MLFlow model deplyoment in Production.
+
+![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/drift-detection-sample.png)
+Drift Detection sample report.
+
+Project Video:
+
+
+Citations:
+1) https://docs.evidentlyai.com/presets/data-drift
+2) https://spark.apache.org/docs/latest/structured-streaming-kafka-integration.html
+3) https://kafka.apache.org/documentation/
+4) https://api-docs.databricks.com/python/pyspark/latest/pyspark.ml.html
+5) https://medium.com/geekculture/integrate-kafka-with-pyspark-f77a49491087
 
 <i> This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota </i>
