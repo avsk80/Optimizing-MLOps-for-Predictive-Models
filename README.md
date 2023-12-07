@@ -64,6 +64,8 @@ MLFlow model deplyoment in Production.
 ![alt text](https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/drift-detection-sample.png)
 Drift Detection sample report.
 
+Project PPT: https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/TrendsMarketFall2023-ppt.pdf
+
 
 Project Video:
 
