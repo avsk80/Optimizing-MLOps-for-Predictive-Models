@@ -67,7 +67,7 @@ Drift Detection sample report.
 Project PPT: https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/blob/main/TrendsMarketFall2023-ppt.pdf
 
 
-Project Video:
+Project Video: https://www.youtube.com/watch?v=7AXQnp9nAgg
 
 
 Sample data: https://github.com/avsk80/Optimizing-MLOps-for-Predictive-Models/tree/main/sample_json
